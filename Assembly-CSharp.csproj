@@ -46,16 +46,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\enemy\enemybullet.cs" />
      <Compile Include="Assets\Scripts\enemy\enemymove.cs" />
      <Compile Include="Assets\Scripts\game\gameManger.cs" />
      <Compile Include="Assets\Scripts\game\globelvars.cs" />
      <Compile Include="Assets\Scripts\game\score.cs" />
-     <Compile Include="Assets\Scripts\kogel\firescript.cs" />
-     <Compile Include="Assets\Scripts\kogel\koggelmovement.cs" />
      <Compile Include="Assets\Scripts\player\NewBehaviourScript.cs" />
-     <Compile Include="Assets\Scripts\turret\lookat.cs" />
-     <Compile Include="Assets\Scripts\turret\shoot.cs" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Background.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Transparent Vertex Color.shader" />
